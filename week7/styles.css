@@ -1,0 +1,104 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    
+}
+ul {
+    list-style: none;
+}
+li a {
+    display: flex;
+    float: right;
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+    padding-right: 50px;
+    padding-top: 50px;
+}
+li a:hover {
+    color: lightsalmon;
+}
+li h1 {
+    display: flex;
+    float: left;
+    color:white;
+    font-size: 48px;
+    padding-left: 40px;
+    padding-top: 40px;
+}
+
+.main {
+    background-image: url(img/192645-space.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+.odd h2 {
+    padding-left: 525px;
+    padding-top: 200px;
+    font-size: 68px;
+    color: white;
+}
+.odd h3 {
+    padding-left: 435px;
+    line-height: 60px;
+    font-size: 26px;
+    color: lightsalmon;
+}
+.odd span {
+    color: lightsalmon;
+}
+.odd {
+    padding-top: 30px;
+}
+.btn a {
+   
+    background-color: lightsalmon;
+    height: 300px;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 26px;
+    color: black;
+}
+.btn {
+    padding-left: 690px;
+    line-height: 50px;
+}
+.btn a:hover {
+    background-color: salmon;
+}
+#secondmain {
+    background-image: url(img/nasa-goods-real_wide-9168d715c2d4c488d7a0e594b397d7abdd969d9d.png);
+    height: 100vh;
+}
+.firstp {
+    text-align: center;
+    font-size: 24px;
+    padding: 0 100px;
+    color: white;
+    padding-top: 30px;
+}
+#secondmain h4 {
+    background-color: salmon;
+    font-size: 46px;
+}
+#thirdmain {
+    background-image: url(img/nasa-goods-real_wide-9168d715c2d4c488d7a0e594b397d7abdd969d9d.png);
+    height: 100vh;
+}
+#news {
+    text-align: center;
+    font-size: 24px;
+    color: white;
+}
+#news h4 {
+    color: white;
+    font-size: 46px;
+    
+}
+.contacts {
+    font-size: 16px;
+    text-align: center;
+    font-style: inherit;
+}
